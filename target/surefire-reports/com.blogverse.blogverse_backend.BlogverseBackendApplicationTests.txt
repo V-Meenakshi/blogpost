@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.blogverse.blogverse_backend.BlogverseBackendApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.916 s -- in com.blogverse.blogverse_backend.BlogverseBackendApplicationTests

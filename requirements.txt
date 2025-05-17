@@ -1,0 +1,16 @@
+# Supabase Python SDK (if you use Supabase admin scripts)
+supabase==2.0.0
+
+# PostgreSQL database driver
+psycopg2-binary==2.9.9
+
+# Environment variable support
+python-dotenv==1.0.1
+
+# HTTP requests (for calling APIs)
+requests==2.31.0
+
+# Testing and Linting (optional)
+pytest==8.2.0
+black==24.4.2
+flake8==7.0.0
