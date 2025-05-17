@@ -1,8 +1,8 @@
 export interface User {
   id: string;
   email: string;
-  name: string;
-  avatar?: string;
+  name?: string; // Supabase metadata might not always include this
+  avatar?: string; // Optional: you can later pull this from Supabase metadata
 }
 
 export interface Blog {
